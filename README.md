@@ -3,7 +3,7 @@
 ## 📌 Problem Statement
 Predict whether a loan applicant will default using financial & demographic data.
 
-This helps banks reduce bad loans and improve risk decisions. :contentReference[oaicite:5]{index=5}
+This helps banks reduce bad loans and improve risk decisions. 
 
 ## 📊 Dataset
 - Source: [Kaggle / Internship dataset]
