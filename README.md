@@ -29,15 +29,11 @@ This helps banks reduce bad loans and improve risk decisions.
 - Logistic Regression
 - Random Forest
 - Decision Trees
-- (Optional: XGBoost)
 
 ## 📈 Evaluation Metrics
-- Accuracy: %
-- ROC-AUC: XX%
+- Accuracy: 78%
 - Confusion Matrix
 
 ## 📌 Key Insights
 - People with ... were more likely to default
 - Feature importance: Credit_History was top predictor
-
-## 💻 How to Run
