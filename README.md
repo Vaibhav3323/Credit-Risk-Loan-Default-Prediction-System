@@ -53,17 +53,6 @@ streamlit run app.py
 **Vaibhav Sharma** — Aspiring Data Scientist
 - GitHub: https://github.com/Vaibhav3323
 - LinkedIn: https://www.linkedin.com/in/vaibhav-s-sharma-8b81b929a
-```
-
----
-
-## 💼 STEP 3 — Post on LinkedIn the RIGHT Way
-
-This is the **most important step** for getting noticed! 👇
-
-### Copy this LinkedIn Post Template:
-```
-🚀 Just deployed my first ML project LIVE!
 
 💳 Credit Risk - Loan Default Prediction System
 
