@@ -34,11 +34,11 @@ financial data.
 9. Streamlit App Deployment
 
 ## 🤖 Models Used & Results
-| Model | Accuracy |
+| Model | Accuracy |Precision|Recall|F1 Score|
 |---|---|
-| Logistic Regression | 79% |
-| Decision Tree | ~75% |
-| Random Forest | 82% ✅ Best |
+| Logistic Regression | 79% |75%|98%|85%
+| Decision Tree | ~75% |84%|80%|82%
+| Random Forest | 82% ✅ Best |76%|96%|85%
 
 ## 📈 Key Insights
 - Credit History is the #1 predictor of loan default
